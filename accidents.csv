@@ -1,0 +1,9 @@
+Weather,Road_Type,Traffic,Accident
+Clear,Highway,High,0
+Rainy,City,Medium,1
+Foggy,Highway,Low,1
+Clear,City,High,0
+Rainy,Rural,Low,1
+Foggy,Rural,Low,1
+Clear,Highway,High,0
+Rainy,City,Medium,1
